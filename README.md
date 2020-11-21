@@ -10,6 +10,6 @@ Link for this Sample Quiz:
 
 https://repl.it/@Jesswin/endGame?embed=1&output=1#index.js
 
-Link for this Fandom Quiz (made by me) :nerd_face: :
+Link for Fandom Quiz (made by me) :nerd_face: :
 
 https://repl.it/@Jesswin/Assignment-1?embed=1&output=1#index.js
